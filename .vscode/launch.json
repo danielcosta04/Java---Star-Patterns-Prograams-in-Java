@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "logic1",
+      "request": "launch",
+      "mainClass": "logic1",
+      "projectName": "Java - Star Patterns Prograams in Java_1950e797"
+    },
+    {
+      "type": "java",
       "name": "logic3",
       "request": "launch",
       "mainClass": "logic3",
