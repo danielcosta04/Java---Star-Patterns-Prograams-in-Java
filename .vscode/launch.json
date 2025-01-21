@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "logic8",
+      "request": "launch",
+      "mainClass": "logic8",
+      "projectName": "Java---Star-Patterns-Prograams-in-Java_53fb4419"
+    },
+    {
+      "type": "java",
       "name": "logic7",
       "request": "launch",
       "mainClass": "logic7",
