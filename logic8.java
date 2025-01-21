@@ -5,7 +5,7 @@ public class logic8{
             for(j = 1;j < n - i; j+=2){
                 System.out.print(" ");
             }
-
+            
         }
     }
 }
